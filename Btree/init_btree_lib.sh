@@ -1,0 +1,1 @@
+cd libs/btree && make clean && make && cd ..
